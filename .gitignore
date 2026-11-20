@@ -1,0 +1,27 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*.test
+
+# Test coverage
+*.out
+coverage.*
+
+# Go workspace files
+go.work
+go.work.sum
+
+# Environment
+.env
+
+# IDE (GoLand, VS Code)
+.idea/
+.vscode/
+
+# OS
+.DS_Store
